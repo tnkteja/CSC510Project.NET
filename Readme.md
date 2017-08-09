@@ -6,7 +6,13 @@ An attempt to port web application developed for the class project into .NET
 
 Setup the visual studio using  recommend  extensions. [link](https://github.com/tnkteja/Everything.NET#extensions)
 
-Used the ASP.NET setup withWeb Application Project on .NET Framework, ( over cross platform way of .NET core  web application. since I started with this .. [1]) 
+Used the ASP.NET setup withWeb Application Project on .NET Framework with a _Web API_ template using _Individual Accounts type Authentication_ ;, ( over cross platform way of .NET core  web application.  [1]) for the benefit of use mordern tools and support.
+
+
+Using Nuget packages
+
+* **Postman Collection Generator** created a api to get json dump of the Web API endpoint collection.
+* **Swagger buckle** for generating the swagger docs.
 
 ![project setup](https://github.com/tnkteja/CSC510Project.NET/blob/master/images/projectsetup.png)
 
