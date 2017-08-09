@@ -2,8 +2,8 @@
 
 An attempt to port web application developed for the class project into .NET
 
-## Backend : Web API using RESTful interface on CRUD operations
-### Part 1  Persistence : Created the persistence for the entities using the **.NET Entity Framework 6.0** for the project
+## Backend - Web API using RESTful interface on CRUD operations
+### Persistence - Created the persistence for the entities using the **.NET Entity Framework 6.0** for the project
 
 * Using ADO.NET Entity data model.
   * with **model first approach.**
