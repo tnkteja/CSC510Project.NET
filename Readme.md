@@ -4,7 +4,7 @@ An attempt to port web application developed for the class project into .NET
 
 ## Boiler Plate - Project in Visual studio 2017.
 
-Setup the visual studio using  recommend  extensions. [link]()
+Setup the visual studio using  recommend  extensions. [link](https://github.com/tnkteja/Everything.NET#extensions)
 
 Used the ASP.NET setup withWeb Application Project on .NET Framework, ( over cross platform way of .NET core  web application. since I started with this ..) 
 
