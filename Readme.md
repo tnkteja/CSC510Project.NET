@@ -2,7 +2,20 @@
 
 An attempt to port web application developed for the class project into .NET
 
+## Boiler Plate - Project in Visual studioo.
+
+Setup the visual studio using  recommend  extensions. [go]()
+
+Used the ASP.NET setup withWeb Application Project on .NET Framework, over cross platform way of .NET core  web application. 
+
+Setup git repository over the the wizard and hooked up both **Teamviewer** and **github**
+
+
 ## Backend - Web API using RESTful interface on CRUD operations
+ Rest controllers -> Entity Models -> DBO -> DB
+ 
+ > Aim is to use repository pattern over here
+ 
 ### Persistence - Created the persistence for the entities using the **.NET Entity Framework 6.0** for the project
 
 * Using ADO.NET Entity data model.
