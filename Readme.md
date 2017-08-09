@@ -22,5 +22,6 @@ Setup git repository over the the wizard and hooked up both **Teamviewer** and *
   * with **model first approach.**
      * created 3 simple entities in the Entity model designer - User, Movie, Critic and designed relationship between them.
      * created a sql dump of the physical ERD and executed it on the target sql server hosted in **Azure**.
+       * Created a sql database instance in **Azure** on a SQL server instance.
 * Created controller classes for the Web API using the one of the **Web API scaffholdings**
 * ![]()
