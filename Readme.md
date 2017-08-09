@@ -16,11 +16,11 @@ Setup git repository over the the wizard and hooked up both **Teamviewer** and *
  
  > Aim is to use repository pattern over here
  
-### Persistence - Created the persistence for the entities using the **.NET Entity Framework 6.0** for the project
+### Persistence - Created the entities using the **.NET Entity Framework 6.0** for the project
 
 * Using ADO.NET Entity data model.
   * with **model first approach.**
-     * created 3 simple entities. User, Movie, Critic and designed relationship between them.
+     * created 3 simple entities in the Entity model designer - User, Movie, Critic and designed relationship between them.
      * created a sql dump of the physical ERD and executed it on the target sql server hosted in **Azure**.
 * Created controller classes for the Web API using the one of the **Web API scaffholdings**
 * ![]()
