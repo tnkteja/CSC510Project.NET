@@ -20,7 +20,7 @@ Setup git repository over the the wizard and hooked up both **Teamviewer** and *
 
 
 ## Backend - Web API using RESTful interface on CRUD operations
- Rest controllers -> Entity Models -> DBO -> DB
+ Rest controllers -> Entity Models -> DBContext -> DB
  
  > Aim is to use repository pattern over here
  
