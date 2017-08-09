@@ -2,7 +2,7 @@
 
 An attempt to port web application developed for the class project into .NET
 
-## Boiler Plate - Project in Visual studioo.
+## Boiler Plate - Project in Visual studio 2017.
 
 Setup the visual studio using  recommend  extensions. [link]()
 
